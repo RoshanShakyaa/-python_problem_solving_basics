@@ -18,7 +18,5 @@ elif percentage>=50 and percentage<=59:
     print("Grade: B")
 elif percentage>=40 and percentage<=49:
     print("Grade: B-")
-elif percentage<40:
-    print("Fail")
 else:
-    print("You enter the marks wrong")
+    print("Fail")
